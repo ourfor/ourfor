@@ -1,4 +1,4 @@
-![](https://static.ourfor.top/style/bg.jpg)
+![](https://cdn.jsdelivr.net/gh/ourfor/ourfor/assets/bg.jpg)
 
 ### Hi there 👋
 
