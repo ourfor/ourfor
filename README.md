@@ -6,7 +6,5 @@
 
 ### More 🐞
 
-[Personal Blog](https://blog.ourfor.top) `https://blog.ourfor.top`
-
-[Zip Alvelous](https://page-blog.ourfor.top) `https://page-blog.ourfor.top`
+- 🤫  
 
