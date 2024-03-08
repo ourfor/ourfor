@@ -49,7 +49,7 @@
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme.ourfor.top/api/top-langs?username=ourfor&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7&hide=html"/>
+  <img  align="center"  src="https://github-readme.ourfor.top/api/top-langs?username=ourfor&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6&hide=html"/>
   
   </td>
 </tr>
