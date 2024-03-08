@@ -49,7 +49,7 @@
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme.ourfor.top/api/top-langs?username=ourfor&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=8&hide=html"/>
+  <img  align="center"  src="https://github-readme.ourfor.top/api/top-langs?username=ourfor&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7&hide=html"/>
   
   </td>
 </tr>
@@ -78,7 +78,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,c,cpp,css,discord,docker,dynamodb,express,figma,firebase,github,html,idea,java,js,kotlin,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=vim,git,c,cpp,sass,docker,spring,figma,github,html,idea,java,js,apple,mysql,nodejs,py,react,redux,ts,vscode,linux&perline=11" />
   </a>
 </p>
 
