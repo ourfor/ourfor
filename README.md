@@ -1,6 +1,6 @@
 
 <!--horizontal divider(gradiant)-->
-<img src="https://raw.githubusercontent.com/ourfor/ourfor/master/assets/bg.jpg" />
+<img src="https://raw.githubusercontent.com/ourfor/ourfor/master/assets/profile.bg.jpg" />
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
