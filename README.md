@@ -31,7 +31,6 @@
 
 - 📫 Feel free to reach me out **ourfor@qq.com**
 
-- 🏠 Also We've a tech community called [Dev Hac](https://discord.com/invite/p4TWyft886).
 <!--Intro end-->
 
 
